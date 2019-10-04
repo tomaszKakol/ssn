@@ -1,0 +1,579 @@
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.6037045530 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  97  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 45.39  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5977227665 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  96  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 45.93  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5960641722 
+B³¹d œredni MSE Train: 0.0000057280 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  96  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 46.15  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5908394656 
+B³¹d œredni MSE Train: 0.0000093126 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  95  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 46.54  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5836437435 
+B³¹d œredni MSE Train: 0.0000445327 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  94  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 47.30  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5699573370 
+B³¹d œredni MSE Train: 0.0000716957 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  92  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 48.29  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5632161295 
+B³¹d œredni MSE Train: 0.0001225398 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  92  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 48.60  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.10  
+B³¹d œredni MSE Test: 0.5634431551 
+B³¹d œredni MSE Train: 0.0001849446 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  91  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 48.74  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5961053046 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  85  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 52.11  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5910832842 
+B³¹d œredni MSE Train: 0.0000000015 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  85  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 52.50  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5932714271 
+B³¹d œredni MSE Train: 0.0000018130 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  85  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 52.22  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5762363696 
+B³¹d œredni MSE Train: 0.0001065800 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  83  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 53.62  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5613567526 
+B³¹d œredni MSE Train: 0.0002030068 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  80  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 55.17  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5627931871 
+B³¹d œredni MSE Train: 0.0001809993 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  82  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 54.10  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5452083933 
+B³¹d œredni MSE Train: 0.0003828654 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  79  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 55.45  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.20  
+B³¹d œredni MSE Test: 0.5374092568 
+B³¹d œredni MSE Train: 0.0004735377 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  78  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 56.29  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.6023116657 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  75  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 57.70  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5994834313 
+B³¹d œredni MSE Train: 0.0000003284 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  75  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 57.84  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5902442325 
+B³¹d œredni MSE Train: 0.0000350403 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  74  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 58.34  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5589428901 
+B³¹d œredni MSE Train: 0.0001786331 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  70  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 60.87  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5566006131 
+B³¹d œredni MSE Train: 0.0005064012 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  69  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 61.24  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5380636200 
+B³¹d œredni MSE Train: 0.0004863110 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  69  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 61.21  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.5080208290 
+B³¹d œredni MSE Train: 0.0006780257 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  65  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 63.62  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.30  
+B³¹d œredni MSE Test: 0.4947911960 
+B³¹d œredni MSE Train: 0.0005766790 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  62  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 65.25  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.6097010668 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  65  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 63.34  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.5931728512 
+B³¹d œredni MSE Train: 0.0000007387 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  64  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 64.21  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.5826202659 
+B³¹d œredni MSE Train: 0.0001023030 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  63  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 64.75  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.5654207126 
+B³¹d œredni MSE Train: 0.0004309102 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  60  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 66.12  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.5317952652 
+B³¹d œredni MSE Train: 0.0006614549 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  57  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 67.87  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.5080465413 
+B³¹d œredni MSE Train: 0.0005697952 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  56  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 68.82  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.4886365530 
+B³¹d œredni MSE Train: 0.0007552143 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  53  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 70.17  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.40  
+B³¹d œredni MSE Test: 0.4695349988 
+B³¹d œredni MSE Train: 0.0007009351 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  51  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 71.46  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.6021030024 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  54  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 69.89  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.5951449763 
+B³¹d œredni MSE Train: 0.0000003973 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  53  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 70.14  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.5734256531 
+B³¹d œredni MSE Train: 0.0001224066 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  51  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 71.18  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.5430685539 
+B³¹d œredni MSE Train: 0.0005954516 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  48  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 72.84  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.5240174071 
+B³¹d œredni MSE Train: 0.0007414875 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  46  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 74.04  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.4843000011 
+B³¹d œredni MSE Train: 0.0007389561 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  44  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 75.06  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.4664651439 
+B³¹d œredni MSE Train: 0.0008259581 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  42  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 76.66  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.50  
+B³¹d œredni MSE Test: 0.4525095316 
+B³¹d œredni MSE Train: 0.0007875613 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  40  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 77.50  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.6095565995 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  44  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 75.34  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.6049075947 
+B³¹d œredni MSE Train: 0.0000014972 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  44  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 75.34  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.5643454541 
+B³¹d œredni MSE Train: 0.0001447271 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  41  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 77.02  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.5405461181 
+B³¹d œredni MSE Train: 0.0005346453 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  39  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 78.01  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.5210913546 
+B³¹d œredni MSE Train: 0.0007529864 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  37  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 99.97  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 79.21  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.4702368039 
+B³¹d œredni MSE Train: 0.0007752830 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  35  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 80.53  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.4325375704 
+B³¹d œredni MSE Train: 0.0008230938 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  32  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 82.02  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.60  
+B³¹d œredni MSE Test: 0.4313361641 
+B³¹d œredni MSE Train: 0.0007569852 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  31  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 82.78  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.5970164527 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  32  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 81.88  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.5953151653 
+B³¹d œredni MSE Train: 0.0000018557 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  32  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 81.85  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.5503938888 
+B³¹d œredni MSE Train: 0.0001780547 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  30  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 83.20  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.5602737705 
+B³¹d œredni MSE Train: 0.0006752865 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  30  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 83.09  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.4988593380 
+B³¹d œredni MSE Train: 0.0008672023 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  27  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 85.06  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.4661686497 
+B³¹d œredni MSE Train: 0.0008827351 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  26  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 85.48  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.4197029296 
+B³¹d œredni MSE Train: 0.0008716060 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  23  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 86.94  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.70  
+B³¹d œredni MSE Test: 0.4088090654 
+B³¹d œredni MSE Train: 0.0007597427 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  22  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 87.84  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.6150041519 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  22  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 87.56  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.6282123653 
+B³¹d œredni MSE Train: 0.0000017534 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  23  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 87.19  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.5648367710 
+B³¹d œredni MSE Train: 0.0004442469 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  21  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 88.46  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.5005968978 
+B³¹d œredni MSE Train: 0.0007109910 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  18  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 89.80  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.4839156402 
+B³¹d œredni MSE Train: 0.0008739569 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  17  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 90.70  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.4180425654 
+B³¹d œredni MSE Train: 0.0008704901 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  16  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 91.29  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.3915130766 
+B³¹d œredni MSE Train: 0.0008852202 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  14  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 92.11  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.80  
+B³¹d œredni MSE Test: 0.3583249615 
+B³¹d œredni MSE Train: 0.0008455506 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  13  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 92.81  
+Wyniki z testów jednoskowych:
+Spread: 1.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.5609262862 
+B³¹d œredni MSE Train: 0.0000000000 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  10  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 94.33  
+Wyniki z testów jednoskowych:
+Spread: 2.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.6088477272 
+B³¹d œredni MSE Train: 0.0000018970 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  11  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 93.79  
+Wyniki z testów jednoskowych:
+Spread: 3.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.5566159224 
+B³¹d œredni MSE Train: 0.0007730324 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:  10  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 94.27  
+Wyniki z testów jednoskowych:
+Spread: 4.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.4791307680 
+B³¹d œredni MSE Train: 0.0007154077 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:   8  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 95.28  
+Wyniki z testów jednoskowych:
+Spread: 5.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.4633866324 
+B³¹d œredni MSE Train: 0.0008987423 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:   8  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 95.53  
+Wyniki z testów jednoskowych:
+Spread: 6.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.4278824658 
+B³¹d œredni MSE Train: 0.0008946416 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:   8  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 95.42  
+Wyniki z testów jednoskowych:
+Spread: 7.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.4146231883 
+B³¹d œredni MSE Train: 0.0008862396 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:   8  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 95.73  
+Wyniki z testów jednoskowych:
+Spread: 8.0 , wspó³czynnik D: 0.90  
+B³¹d œredni MSE Test: 0.3269783597 
+B³¹d œredni MSE Train: 0.0008985934 
+SSN: Œrednia b³êdnie sklasyfikowanych danych ucz¹cych:   0  
+SSN: Œrednia  b³êdnie sklasyfikowanych danych testuj¹cych:   5  
+SSN: Procenowy wskaŸnik b³êdu danych ucz¹cych: 100.00  
+SSN: Procenowy wskaŸnik b³êdu danych testuj¹cych: 96.97  
+Najlepsze dopasowanie:
+B³¹d MSE danych testuj¹cych: 0.1567634470 , wspó³czynnik D: 0.90, iteracja: 19, B³êdnych dopasowañ: 1.0
+B³¹d MSE danych ucz¹cych: 0.0000000000 , wspó³czynnik D: 0.10 , iteracja: 19 , B³êdnych dopasowañ: 0.0
